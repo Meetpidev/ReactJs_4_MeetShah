@@ -1,4 +1,3 @@
-// src/redux/todoSlice.js
 import { createSlice } from "@reduxjs/toolkit";
 
 export const todoSlice = createSlice({

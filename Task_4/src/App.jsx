@@ -1,4 +1,3 @@
-// src/App.jsx
 import React, { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { addTodo, removeTodo, toggleTodo } from "./redux/todoSlice";
